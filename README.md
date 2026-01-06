@@ -24,9 +24,9 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Technologies
 
-<div align="center">
+
+## Skills & Technologies
 
 ### 🚀 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,31 +55,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudyMontoo&show_icons=true&count_private=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudyMontoo&layout=compact&theme=tokyonight" width="375"/>
-</div>
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudyMontoo&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudyMontoo&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true">
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudyMontoo&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+- **Health Care Premium Prediction**  
+  End-to-end ML pipeline for predicting insurance premiums using real-world healthcare data.
 
-[![Health Care Premium Prediction](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Health-Care-Premium-Prediction&theme=tokyonight)](https://github.com/RudyMontoo/Health-Care-Premium-Prediction)
-[![Credit Risk Modelling](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Credit-Risk-Modelling&theme=tokyonight)](https://github.com/RudyMontoo/Credit-Risk-Modelling)
+- **Credit Risk Modelling**  
+  Machine learning–based credit risk assessment system with feature engineering and classification.
 
-</div>
+- **SignEase – Sign Language Detection**  
+  Real-time sign language recognition project built and developed by me.  
+  *Note: Originally forked for collaboration, but core development and implementation were done by me.*
 
 ---
 
