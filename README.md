@@ -72,14 +72,18 @@
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
+    
+     ### 🚀 Featured Projects
+    
+    [![🏥 Health Care Premium Prediction](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Health-Care-Premium-Prediction&theme=tokyonight)](https://github.com/RudyMontoo/Health-Care-Premium-Prediction)
+     &nbsp;&nbsp;
+    [![💳 Credit Risk Modelling](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Credit-Risk-Modelling&theme=tokyonight)](https://github.com/RudyMontoo/Credit-Risk-Modelling)
+     &nbsp;&nbsp;
+    [![🚗 Car Damage Detection](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=CAR-DAMAGE-DETECTION&theme=tokyonight)](https://github.com/RudyMontoo/CAR-DAMAGE-DETECTION)
+   
+   </div>
 
-[![Health Care Premium Prediction](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Health-Care-Premium-Prediction&theme=tokyonight)](https://github.com/RudyMontoo/Health-Care-Premium-Prediction)
-[![Credit Risk Modelling](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Credit-Risk-Modelling&theme=tokyonight)](https://github.com/RudyMontoo/Credit-Risk-Modelling)
-
-</div>
 
 ---
 
