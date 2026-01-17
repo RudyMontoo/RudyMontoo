@@ -77,26 +77,26 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://github.com/RudyMontoo/ECommerce_Chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=ECommerce_Chatbot&theme=tokyonight" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=33DDFF&center=true&vCenter=true&width=400&height=80&lines=🛒+E-Commerce+Chatbot;GenAI+%7C+NLP+%7C+Streamlit" alt="E-Commerce Chatbot" />
         </a>
       </td>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://github.com/RudyMontoo/Health-Care-Premium-Prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Health-Care-Premium-Prediction&theme=tokyonight" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3355&center=true&vCenter=true&width=400&height=80&lines=🏥+Health+Care+Premium;Prediction+Model" alt="Health Care Premium Prediction" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://github.com/RudyMontoo/Credit-Risk-Modelling">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Credit-Risk-Modelling&theme=tokyonight" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=44FF44&center=true&vCenter=true&width=400&height=80&lines=💳+Credit+Risk+Modelling;Financial+Analytics" alt="Credit Risk Modelling" />
         </a>
       </td>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://github.com/RudyMontoo/CAR-DAMAGE-DETECTION">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=CAR-DAMAGE-DETECTION&theme=tokyonight" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFF44&center=true&vCenter=true&width=400&height=80&lines=🚗+Car+Damage+Detection;Computer+Vision" alt="Car Damage Detection" />
         </a>
       </td>
     </tr>
@@ -121,4 +121,3 @@ class RudraSharma:
     def say_hi(self):
         print("Thanks for visiting! Let's build something cool. 🚀")
 ```
-
