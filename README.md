@@ -14,11 +14,12 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
 
-🎓 **B.Tech Student** passionate about **AI/ML**  
-🤖 **Aspiring AI Engineer** building intelligent systems  
-📊 **Data Science Enthusiast** turning data into insights  
-🌟 **Open Source Contributor**  
-⚡ **Fun fact**: Debugging works better at 3 AM  
+🎓 **Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**.  
+🤖 **AI Engineer** with a passion for building **Agentic Systems** and **RAG Frameworks**.  
+📊 **Data Science Practitioner** experienced in turning raw data into actionable insights using **Python & SQL**.  
+🌟 **Open Source Contributor** actively engaging with the developer community.  
+💡 I love bridging the gap between complex algorithms and real-world applications.  
+⚡ **Fun fact**: I treat `SyntaxError` as a personal challenge.
 
 <br clear="both"/>
 
@@ -62,12 +63,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudyMontoo&show_icons=true&count_private=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudyMontoo&layout=compact&theme=tokyonight" width="375"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudyMontoo&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A22FF&center=true&vCenter=true&width=600&lines=High+Impact+Coder;Hundreds+of+Contributions;Building+Scalable+AI+Solutions;Always+Pushing+Production+Code" />
 </div>
 
 ---
