@@ -72,18 +72,36 @@
 
 ---
 
-<div align="center">
-    
-     ### 🚀 Featured Projects
-    
-    [![🏥 Health Care Premium Prediction](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Health-Care-Premium-Prediction&theme=tokyonight)](https://github.com/RudyMontoo/Health-Care-Premium-Prediction)
-     &nbsp;&nbsp;
-    [![💳 Credit Risk Modelling](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Credit-Risk-Modelling&theme=tokyonight)](https://github.com/RudyMontoo/Credit-Risk-Modelling)
-     &nbsp;&nbsp;
-    [![🚗 Car Damage Detection](https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=CAR-DAMAGE-DETECTION&theme=tokyonight)](https://github.com/RudyMontoo/CAR-DAMAGE-DETECTION)
-   
-   </div>
+## 🚀 Featured Projects
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/RudyMontoo/ECommerce_Chatbot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=ECommerce_Chatbot&theme=tokyonight" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/RudyMontoo/Health-Care-Premium-Prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Health-Care-Premium-Prediction&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/RudyMontoo/Credit-Risk-Modelling">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=Credit-Risk-Modelling&theme=tokyonight" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/RudyMontoo/CAR-DAMAGE-DETECTION">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RudyMontoo&repo=CAR-DAMAGE-DETECTION&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -94,12 +112,13 @@ class RudraSharma:
     def __init__(self):
         self.role = "AI Engineer"
         self.focus = [
-            "Building real-world ML systems",
-            "Agentic AI & automation",
-            "Advanced data science",
-            "Open-source contributions"
+            "Generative AI & LLM Systems",
+            "Agentic Workflows & Automation",
+            "Building RAG Architecture",
+            "Contributing to Open Source"
         ]
 
     def say_hi(self):
-        print("Thanks for visiting 🚀")
+        print("Thanks for visiting! Let's build something cool. 🚀")
+```
 
