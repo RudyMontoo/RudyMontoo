@@ -66,6 +66,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A22FF&center=true&vCenter=true&width=600&lines=High+Impact+Coder;Hundreds+of+Contributions;Building+Scalable+AI+Solutions;Always+Pushing+Production+Code" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=RudyMontoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="800" />
+  </a>
+</div>
+
 ---
 
 ## 🚀 Featured Projects
