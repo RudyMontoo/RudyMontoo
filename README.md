@@ -1,5 +1,9 @@
-# Hi there, I'm [Rudra Sharma](https://github.com/RudyMontoo) 👋
 
+
+
+
+<!-- ==================== HERO BANNER (animated gradient) ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=220&section=header&text=Rudra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architect&descAlignY=60&descSize=18" />
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEaF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Rudra+Sharma;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems;Welcome+to+my+Profile!" />
 </div>
@@ -9,10 +13,6 @@
 </div>
 
 ---
-
-<!-- ==================== HERO BANNER (animated gradient) ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=220&section=header&text=Rudra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architect&descAlignY=60&descSize=18" />
-
 <!-- ==================== TYPING INTRO ==================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00CED1&center=true&vCenter=true&width=940&lines=Hey!+It's+Rudra+Sharma+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+LLM+Systems;I+build+multi-agent+systems+that+ship;Top+50+across+Asia+%E2%80%94+Google+Cloud+Gen+AI+Academy" />
