@@ -1,3 +1,15 @@
+# Hi there, I'm [Rudra Sharma](https://github.com/RudyMontoo) 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEaF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Rudra+Sharma;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems;Welcome+to+my+Profile!" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+---
+
 <!-- ==================== HERO BANNER (animated gradient) ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=220&section=header&text=Rudra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architect&descAlignY=60&descSize=18" />
 
@@ -150,34 +162,20 @@ const rudra: Engineer = {
 </div>
 
 ---
-
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RudyMontoo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudyMontoo&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00CED1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A22FF&center=true&vCenter=true&width=600&lines=High+Impact+Coder;Hundreds+of+Contributions;Building+Scalable+AI+Solutions;Always+Pushing+Production+Code" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudyMontoo&theme=react&hide_border=true&background=0D1117&stroke=00CED1&ring=8A2BE2&fire=FF6F00&currStreakLabel=00CED1" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RudyMontoo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-</div>
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RudyMontoo/RudyMontoo/output/snake.svg" alt="snake animation" />
-</div>
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudyMontoo&theme=react-dark&bg_color=0D1117&color=00CED1&line=8A2BE2&point=ffffff&hide_border=true" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=RudyMontoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="800" />
+  </a>
 </div>
 
 ---
+
 
 <!-- ==================== CONNECT ==================== -->
 ## 🤝 Connect With Me
@@ -198,3 +196,5 @@ const rudra: Engineer = {
 
 <!-- ==================== FOOTER WAVE ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=120&section=footer" />
+        print("Thanks for visiting! Let's build something cool. 🚀")
+```
