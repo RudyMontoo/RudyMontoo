@@ -184,7 +184,7 @@ const rudra: Engineer = {
 
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+cool.+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines= Thanks+for+visiting!+Let's+build+something+cool.+%F0%9F%9A%80" />
 </div>
 
 
