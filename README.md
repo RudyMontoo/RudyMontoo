@@ -2,10 +2,6 @@
 
 
 
-<!-- ==================== HERO BANNER (animated gradient) ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=220&section=header&text=Rudra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architect&descAlignY=60&descSize=18" />
-
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -187,10 +183,9 @@ const rudra: Engineer = {
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+cool.+%F0%9F%9A%80" />
+</div>
 
 
 
-<!-- ==================== FOOTER WAVE ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=120&section=footer" />
-        print("Thanks for visiting! Let's build something cool. 🚀")
-```
