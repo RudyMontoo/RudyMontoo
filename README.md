@@ -164,7 +164,7 @@ const rudra: Engineer = {
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A22FF&center=true&vCenter=true&width=600&lines=High+Impact+Coder;Hundreds+of+Contributions;Building+Scalable+AI+Solutions;Always+Pushing+Production+Code" />
-</div>
+</div>a
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
@@ -188,9 +188,7 @@ const rudra: Engineer = {
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+cool.+%F0%9F%9A%80" />
-</div>
+
 
 <!-- ==================== FOOTER WAVE ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=120&section=footer" />
